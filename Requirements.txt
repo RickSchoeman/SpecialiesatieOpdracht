@@ -1,0 +1,4 @@
+SpecialisatieOpdrcht.ipynb
+2015.csv
+gamesales.csv
+metacritic.csv
